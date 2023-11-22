@@ -1,7 +1,7 @@
 # UX220Test2
 Test 2 for UX220
 
-[Edit here](https://diy-pwa.dev/rhildred/UX220Test2)
+[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Test2)
 
 Each question is worth 2 points.
 
@@ -32,4 +32,4 @@ Create green space equal to the current font size around those labels.
 
 ![Q5](readmeimages/Q5.png)
 
-[Edit here](https://diy-pwa.dev/rhildred/UX220Test2)
+[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Test2)
