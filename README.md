@@ -1,7 +1,7 @@
 # UX220Test2
 Test 2 for UX220
 
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220Test2)
+[Edit here](https://diy-pwa.dev/~/gh/umar2740/UX220Test2)
 
 Each question is worth 2 points.
 
